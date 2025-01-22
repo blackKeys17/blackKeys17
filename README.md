@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @blackKeys17
 - 👀 I’m interested in Maths, particularly combinatorics and graph theory
-- 🌱 I’m currently doing CS, Maths and Physics a-levels
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently studying CS, Maths and Physics
 - ⚡ Fun fact: I like playing piano
 
 <!---
