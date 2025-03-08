@@ -4,6 +4,7 @@
 - 🧠 I enjoy working with PyTorch, but I'm currently trying to gain a proper understanding of how neural networks are constructed by trying to build one myself.
 - 🌱 I’m currently studying CS, Maths and Physics as a-levels.
 - 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them)
+- 🥇 My (terrible) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17)
 - 🤓 I like writing unreadable Python 1 line list comprehensions.
 - ⚡ Fun fact: I like playing piano.
 
