@@ -5,5 +5,4 @@
 - 🌱 I’m currently studying CS, Maths and Physics as a-levels.
 - 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them)
 - 🥇 My (terrible) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17)
-- 🤓 I like writing unreadable Python 1 line list comprehensions.
-- ⚡ Fun fact: I like playing piano.
+- ⚡ Fun fact: I like playing piano (even though I suck at it).
