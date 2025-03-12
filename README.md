@@ -1,3 +1,4 @@
+## About me
 - 👋 Hi, I’m @blackKeys17.
 - 🏫 I'll (hopefully) be studying Maths at Cambridge University this October.
 - 👀 I’m interested in Maths, and I'm currently working on preparation for STEP 2 and 3. I'm also working through Linear Algebra Done Right by Sheldon Axler and Analysis 1 by Terence Tao, and planning to look through some of GTAC by Yufei Zhao and Algebra by Artin.
