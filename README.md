@@ -6,7 +6,7 @@
 - 👨‍💻 I have some experience with frontend webdev (React + Typescript + Tailwind).
 - 🌱 I’m currently studying CS, Maths and Physics for A levels.
 - 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them). For Maths Olympiads, my personal preference is C > A > N > G :)
-- 🥇 My (terrible) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17)
+- 🥇 My (painfully bad) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17).
 - 🎹 I like playing piano (even though I suck at it).
 
 ## Stuff I use
