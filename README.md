@@ -7,7 +7,7 @@
 - 🌱 I’m currently studying CS, Maths and Physics for A levels.
 - 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them). For Maths Olympiads, my personal preference is C > A > N > G :)
 - 🥇 My (terrible) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17)
-- ⚡ Fun fact: I like playing piano (even though I suck at it).
+- 🎹 I like playing piano (even though I suck at it).
 
 ## Stuff I use
 <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?logo=tailwindcss&logoColor=%23FFFFFF"> <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C?logo=pytorch&logoColor=%23FFFFFF">
