@@ -3,6 +3,6 @@
 - 👀 I’m interested in Maths, and I'm currently working on preparation for STEP 2 and 3. I'm also working through Linear Algebra Done Right by Sheldon Axler and Analysis 1 by Terence Tao, and planning to look through some of GTAC by Yufei Zhao and Algebra by Artin.
 - 🧠 I have experience using PyTorch, but I'm currently trying to gain a comprehensive understanding of how neural networks are constructed by trying to build one myself. I'm currently learning about and implementing forwards and backwards autodiff to compute JVPs and VJPs for vector-valued functions. 
 - 🌱 I’m currently studying CS, Maths and Physics for A levels.
-- 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them)
+- 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them). For Maths Olympiads, my personal preference is C > A > N > G :)
 - 🥇 My (terrible) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17)
 - ⚡ Fun fact: I like playing piano (even though I suck at it).
