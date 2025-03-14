@@ -5,7 +5,7 @@
 - 🧠 I have experience using PyTorch, but I'm currently trying to gain a comprehensive understanding of how neural networks are constructed by trying to build one myself. I'm currently learning about and implementing forwards and backwards autodiff to compute JVPs and VJPs for vector-valued functions.
 - 👨‍💻 I have some experience with frontend webdev (React + Typescript + Tailwind).
 - 🌱 I’m currently studying CS, Maths and Physics for A levels.
-- 🏆 I enjoy participating in Maths and Informatics Olympiads (even though I suck at them). For Maths Olympiads, my personal preference is C > A > N > G :)
+- 🏆 I enjoy participating in Maths and Informatics Olympiads. For Maths Olympiads, my personal preference is C > A > N > G :)
 - 🥇 My (painfully bad) Codeforces profile: [darkFlower17](https://codeforces.com/profile/darkFlower17).
 - 🎹 I like playing piano (even though I suck at it).
 
